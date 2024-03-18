@@ -1,0 +1,43 @@
+body {
+      font-family:roboto;
+      background-color: #FF2EFE;
+      color:#4F24FF;
+      font-size: larger;
+      text-align: center;
+      border-style: solid;
+      
+}
+h1 {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      background-color: #FF2EFE;
+      color: #4F24FF;
+      text-align: center;
+      border-color: black;
+      border-style: double;
+      
+      
+
+}
+h3 {
+      img {
+            max-width: 50%;
+            max-height: 50%
+            
+            }
+}
+h4 {
+      
+      text-align: left;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-style:italic;
+      list-style: circle;
+          background-color: azure;
+      border-style: solid; }
+
+h5 {
+      color: mediumblue;
+      padding-left: 50px ;
+      padding-right: 50px;
+      border-style: solid;
+      background-color: azure;
+}
